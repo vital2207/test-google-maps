@@ -1,0 +1,8 @@
+.autocomplete {
+  margin: 10px;
+  border: 2px solid gray;
+  padding: 7px 6px;
+  border-radius: 10px;
+  outline: none;
+  max-width: 350px;
+}
